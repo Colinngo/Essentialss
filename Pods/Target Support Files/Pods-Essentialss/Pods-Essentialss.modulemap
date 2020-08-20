@@ -1,0 +1,6 @@
+framework module Pods_Essentialss {
+  umbrella header "Pods-Essentialss-umbrella.h"
+
+  export *
+  module * { export * }
+}
